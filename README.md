@@ -4,6 +4,15 @@
 Computer Engineering student, wrapping my head around **Backend Development**, **System-Level Programming**, and **Database Internals**.
 
 > *And a few other things in life, mostly my next move in Chess and when I am taking my JLPT N4 exam.*
+
+<br>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,c,cpp,go,nodejs,express,js,ts,postgres,mongodb,docker,git,github,vscode" />
+  </a>
+</div>
+
 <!--
 <div align="center">
 
@@ -25,10 +34,6 @@ Computer Engineering student, wrapping my head around **Backend Development**, *
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 -->
-</div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,c,cpp,go,nodejs,express,js,ts,postgres,mongodb,docker,git,github" />
-</div>
 
 <!--
 # はじめまして、サルマです。👋
