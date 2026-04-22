@@ -6,7 +6,7 @@ Computer Engineering student, wrapping my head around **Backend Development**, *
 > *And a few other things in life, mostly my next move in Chess and when I am taking my JLPT N4 exam.*
 
 <br>
-
+<!--
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,bash,c,cpp,go,nodejs,express,js,ts,postgres,mongodb,docker,git,github,vscode" />
