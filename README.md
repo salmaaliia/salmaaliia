@@ -1,7 +1,7 @@
 
-### はじめまして、サルマです。 👋
+### どうも、サルマです。 👋
 
-Computer Engineering student, wrapping my head around **Backend Development**, **System-Level Programming**, and **Database Internals**.
+Computer Engineering graduate, GSoC'26 contributor for Postgresql, wrapping my head around **Backend Development**, **System-Level Programming**, and **Database Internals**.
 
 > *And a few other things in life, mostly my next move in Chess and when I am taking my JLPT N4 exam.*
 
